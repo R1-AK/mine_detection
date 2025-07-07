@@ -48,6 +48,7 @@ pip install earthengine-api geemap geopandas
 3. Run the script in a Jupyter Notebook or Python environment.
 
 ## 🧠 Methodology
+![workflow](https://github.com/user-attachments/assets/5d4f0460-a9c9-468f-93f9-ed9199bf7f46)
 
 The detection is based on these criteria:
 - **Low NDVI (< 0.4)** → sparse vegetation
